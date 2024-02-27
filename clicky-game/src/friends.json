@@ -1,0 +1,5 @@
+[
+    {"id": 1, "name": "Friend 1", "image": "url_to_image_1", "occupation": "Job 1", "location": "Location 1"},
+    {"id": 2, "name": "Friend 2", "image": "url_to_image_2", "occupation": "Job 2", "location": "Location 2"},
+    // Add more friends as needed
+  ]
